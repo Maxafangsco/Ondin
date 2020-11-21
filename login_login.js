@@ -1,5 +1,5 @@
 
-  <script>
+
     // Your JavaScript goes here!
    
    let message = window.prompt('Who\'s there?');
@@ -33,4 +33,3 @@
      alert(errorMessage);
    }
   
-  </script>
